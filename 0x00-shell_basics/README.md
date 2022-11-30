@@ -15,4 +15,4 @@ Task 10. cd - - change working directory to previous one
 Task 11. ls -la . .. /boot  -  a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 Task 12. file /tmp/iamafile/ -a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script
 Task 13. ln /bin/ls __ls__ - Create a symbolic link to /bin/ls, named __ls__
-Task 14. cp -nu /*.html ../ - Copy all html files in working directory to parent directory. do not overwrite existing files unless it's older than current version being copied.
+Task 14. cp -nu *.html ../ - Copy all html files in working directory to parent directory. do not overwrite existing files unless it's older than current version being copied.
