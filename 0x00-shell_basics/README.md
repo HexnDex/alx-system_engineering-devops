@@ -7,3 +7,4 @@ Task 5. ls -lna -Display current directory contents.
 Long format
 with user and group IDs displayed numerically
 And hidden files (starting with .)
+Task 6. mkdir /tmp/my_first_directory - creates a directory name my_first_directory in the /tmp/ directory
