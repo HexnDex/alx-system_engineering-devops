@@ -11,4 +11,5 @@ Task 6. mkdir /tmp/my_first_directory - creates a directory name my_first_direct
 Task 7. mv /tmp/betty /tmp/my_first_directory  - Move betty from tmp to tmp/my_first_directory.
 Task 8. rm /tmp/my_first_directory/betty - Delete the file betty in /tmp/my_first_directory/
 Task 9. rmdir /tmp/my_first_directory - Delete the my_first_directory in the /tmp.
-Task 10. cd ../ - change working directory to previous one.
+Task 10. cd ../ - change working directory to previous one
+Task 11. ls -la . .. /boot  -  a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
