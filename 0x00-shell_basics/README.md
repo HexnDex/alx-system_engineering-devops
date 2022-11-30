@@ -8,3 +8,4 @@ Long format
 with user and group IDs displayed numerically
 And hidden files (starting with .)
 Task 6. mkdir /tmp/my_first_directory - creates a directory name my_first_directory in the /tmp/ directory
+Task 7. mv /tmp/betty /tmp/my_first_directory  - Move betty from tmp to tmp/my_first_directory.
